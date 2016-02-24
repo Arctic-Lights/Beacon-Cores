@@ -1,0 +1,14 @@
+
+# Any Python files.
+__pycache__/
+*.py[cod]
+*.so
+
+
+# Other random stuff.
+.log
+.cache
+
+
+
+
